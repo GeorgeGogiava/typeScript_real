@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc --project tsconfig.json",
-    "start": "node ./dist/aaa.js",
+    "start": "node ./dist/bbb.js",
     "dev": "node ./dist/bbb.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "gg": "npm run build && npm run start"
